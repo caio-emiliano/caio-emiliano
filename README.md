@@ -7,7 +7,7 @@ I am a student of Data Science and Machine Learning, student of Computer Enginee
 I am passionate about Python, Tensorflow and Keras and I love understanding.
 I am interested in UI Design and have 8 years of experience in Graphic Design.
 
-   🌎 **"The art of programming consists of organizing and mastering complexity."** 🧠
+   🌎 **"aThe art of programming consists of organizing and mastering complexity."** 🧠
 
 
 - 📫 How to **[contact](mailto:caio_emiliano@hotmail.com)** me **[caio_emiliano@hotmail.com](mailto:caio_emiliano@hotmail.com).**
