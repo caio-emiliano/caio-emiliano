@@ -18,7 +18,7 @@ I also have 1 year experience in marketing and sales working on a ecommerce.
 
  Reach me out  👇
  
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=www.linkedin.com/in/caio-emiliano)](www.linkedin.com/in/caio-emiliano)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-emiliano)](https://www.linkedin.com/in/caio-emiliano)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/caioer/)](https://www.instagram.com/caioer/)
 
 
