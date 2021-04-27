@@ -3,8 +3,8 @@
 
 # Hi, Caio Emiliano here! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
-I am a student of Front-end development, student of Computer Engineering at CEFET / RJ.
-I am passionate about Javascript + Reactjs, I love building interfaces and using fundamentals of UX Design.
+I am a student of Data Science and Machine Learning, student of Computer Engineering at CEFET / RJ.
+I am passionate about Python, Tensorflow and Keras and I love understanding.
 I am interested in UI Design and have 8 years of experience in Graphic Design.
 
    🌎 **"The art of programming consists of organizing and mastering complexity."** 🧠
@@ -28,8 +28,8 @@ I am interested in UI Design and have 8 years of experience in Graphic Design.
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ramonxm&show_icons=tru&theme=dracula" alt="Status" />
+<img src="https://github-readme-stats.vercel.app/api?username=caio-emiliano&show_icons=tru&theme=dracula" alt="Status" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonxm&layout=compact&show_icons=true&theme=dracula" alt="Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-emiliano&layout=compact&show_icons=true&theme=dracula" alt="Langs" />
