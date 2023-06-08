@@ -3,9 +3,13 @@
 
 # Hi, Caio Emiliano here! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
-I am a student of Data Science and Machine Learning, student of Computer Engineering at CEFET / RJ.
-I am passionate about Python, Tensorflow and Keras and I love understanding more about Data Sets and how they can be useful for us.
-I also have 1 year experience in marketing and sales working on a ecommerce.
+As a Data Scientist, I specialize in optimizing ML models using AWS technologies, including Textract and Rekognition. With a strong background in big data processing using Spark and expertise in Python and SQL, I provide effective solutions to tackle complex problems.
+
+My extensive experience in data science encompasses the development of applications using AWS services such as Lambda, Sagemaker, Jupyter, and EMR. I possess proficient skills in debugging machine learning models for forecasting, NLP, and k-means clustering. Moreover, I have made significant contributions to computer vision research through my involvement in the Petrobrás-funded PIBIC program. During this program, I developed algorithms for oil pipeline segmentation and analyzed performance metrics like IoU and minAP.
+
+As an AWS Cloud Practitioner certified professional and a graduate in Computer Engineering from CEFET-RJ, I bring a solid foundation to my work. I am well-versed in agile development methodologies like SCRUM. Continuously learning and keeping up with the latest technologies and best practices in the industry, I have acquired a strong understanding of TensorFlow, Numpy, Keras, Pandas, Matplotlib, and Seaborn.
+
+By combining my technical expertise, AWS proficiency, and commitment to continuous learning, I deliver high-quality results and contribute to solving complex data science challenges.
 
    🌎 **"The art of programming consists of organizing and mastering complexity."** 🧠
 
@@ -24,7 +28,7 @@ I also have 1 year experience in marketing and sales working on a ecommerce.
 
 **🚀💻 Technologies & Tools**
 
-![Python Badge](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Tensorflow Badge](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras Badge](https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![Numpy Badge](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Visual_Studio_Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white`)
+![Python Badge](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PostgreSQL Badge](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![AWS Badge](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Tensorflow Badge](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras Badge](https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![Numpy Badge](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Visual_Studio_Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white`)
 
 <br>
 
